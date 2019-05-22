@@ -8,6 +8,9 @@
     <title>Admin</title>
 </head>
 <body>
+<form action="./index.php">
+    <button>Accueil</button>
+</form>
     <p><a href="./liste.php">Liste des Spawns</a></p>
     <p><a href="./add.php">Ajout d'un Spawn</a></p>
     <p><a href="./delete.php">Suppresion d'un Spawn</a></p>
