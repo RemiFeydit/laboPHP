@@ -22,7 +22,7 @@
     <form method="POST">
         <button class="btn-href" name="submit"> Prendre un spawn aléatoire</button>
     </form>
-    <a class="test" href="./login.php">Connection</a>
+    <a href="./login.php">Connecxion</a>
 
     <?php
         $random = array_rand($cities);
